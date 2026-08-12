@@ -1,0 +1,6 @@
+{
+  "name": "Authorized Security Portal",
+  "description": "Educational cybersecurity training interface",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
